@@ -1,5 +1,6 @@
 # DriversCom - CM
 
 
-Team : - Stan Marian-Cristian
-       - Neagoe Dana-Maria
+Team : 
+- Stan Marian-Cristian
+- Neagoe Dana-Maria
